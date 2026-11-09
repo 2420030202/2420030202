@@ -1,4 +1,4 @@
-# Hi, I'm 2420030202
+# Hi, I'm K. Kumar Satya Sai
 
 BTech Computer Science student at **KLH University**, expected to graduate in **2028**. I'm interested in **Software Engineering**, **Machine Learning**, and **Data Structures & Algorithms**.
 
